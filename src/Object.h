@@ -1,7 +1,8 @@
-//Types of instances in scene
+#pragma once
+#include "Source.h" //Include GLM (vec3, mat3, etc)
+#include "Ray.h"
 class Object {
 public:
-	vec3 surfaceColor = vec3(0.5,0,0.5);
 	virtual float intersectionPoint(Ray &) = 0;
 	virtual vec3 getNormal(Ray &, float) = 0;
 	virtual vec3 getSurfaceColor() = 0;

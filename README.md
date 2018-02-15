@@ -1,7 +1,7 @@
-# Capybara Rendering Engine (aka a ray tracer)
-The capybara rendering engine is a ray-tracer that renders digital images in high detail. This project was a winter-break project designed to explore ray tracing and computer graphics as a whole. 
+# Capybara Rendering Engine
+The capybara rendering engine is a ray-tracer that renders digital images. This project was a winter-break project designed to explore ray tracing and computer graphics as a whole. It's currently in the process of being revitalized, so bear with me here.
 
 ## Key features
-1) Blockchain featuring SHA-256 encryption and Elliptical Curve Digital Signature Algorithm
-2) Conflict resolution using "proof-of-work"
-3) Decentralized ledgers with full privacy
+1) Reflections and refractions
+2) Digestible mathematical functions
+3) A cool name
